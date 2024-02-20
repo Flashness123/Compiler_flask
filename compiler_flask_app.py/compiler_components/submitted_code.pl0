@@ -1,0 +1,4 @@
+begin
+conct c = 2;
+!c
+end
